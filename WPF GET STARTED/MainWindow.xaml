@@ -5,24 +5,34 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_GET_STARTED"
         mc:Ignorable="d"
-        Title="MainWindow" Height="1280" Width="720">
+        Title="Buttons are reacting to clicks" Height="480" Width="720">
+
     <Border Padding="10" Background="DimGray">
-    <StackPanel>
-        <!--Buttons-->
+
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="3*"/>
                 <ColumnDefinition Width="3*"/>
                 <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
             </Grid.ColumnDefinitions>
-                <Button Grid.Column="0" Content="Apply" Margin="0,0,10,0"/>
-                <Button Grid.Column="1" Content="Reset" />
-                <Button Grid.Column="2" Content="Refresh" Margin="10,0,0,0"/>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Button Grid.Column="0" x:Name="btn11" Content="11" />
+            <Button Grid.Column="1" x:Name="btn12" Content="12"/>
+            <Button Grid.Column="2" x:Name="btn13" Content="13"/>
+            <Button Grid.Column="0" Grid.Row="1" x:Name="btn21" Content="21"/>
+            <Button Grid.Column="1" Grid.Row="1" x:Name="btn22" Content="22"/>
+            <Button Grid.Column="2" Grid.Row="1" x:Name="btn23" Content="23"/>
+            <Button Grid.Column="0" Grid.Row="2" x:Name="btn31" Content="31"/>
+            <Button Grid.Column="1" Grid.Row="2" x:Name="btn32" Content="32"/>
+            <Button Grid.Column="2" Grid.Row="2" x:Name="btn33" Content="33"/>
         </Grid>
-            <Grid>
-                <TextBlock Text="Pulse Properties" FontWeight="Bold" Margin="0,10,0,0"/>
-            </Grid> 
-        </StackPanel>
+
     </Border>
+        
 </Window> 
     
