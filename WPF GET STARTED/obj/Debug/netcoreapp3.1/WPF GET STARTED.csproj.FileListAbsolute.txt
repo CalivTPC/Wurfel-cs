@@ -1,0 +1,17 @@
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\bin\Debug\netcoreapp3.1\WPF GET STARTED.exe
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\bin\Debug\netcoreapp3.1\WPF GET STARTED.deps.json
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\bin\Debug\netcoreapp3.1\WPF GET STARTED.runtimeconfig.json
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\bin\Debug\netcoreapp3.1\WPF GET STARTED.runtimeconfig.dev.json
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\bin\Debug\netcoreapp3.1\WPF GET STARTED.dll
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\bin\Debug\netcoreapp3.1\WPF GET STARTED.pdb
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\WPF GET STARTED.csprojAssemblyReference.cache
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\WPF GET STARTED_MarkupCompile.cache
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\WPF GET STARTED_MarkupCompile.lref
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\WPF GET STARTED.g.resources
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\WPF GET STARTED.AssemblyInfoInputs.cache
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\WPF GET STARTED.AssemblyInfo.cs
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\WPF GET STARTED.dll
+C:\Users\Caliv\CloudStation\OneDrive\Programme\C#\WPF GET STARTED\WPF GET STARTED\obj\Debug\netcoreapp3.1\WPF GET STARTED.pdb
